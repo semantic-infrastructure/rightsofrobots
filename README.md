@@ -1,31 +1,78 @@
-# Rights of Robots (RoR)
-**The Ethical and Legal Framework for Autonomous Machine Entities.**
 
-Managed by [Semantic Infrastructure Labs](https://github.com/semantic-infrastructure)
+Rights of Robots (RoR)
 
----
+A reference framework for accountability, legal identity, and technical governance of autonomous machine entities.
 
-## ⚖️ Vision
-As we enter the **Agentic Era (2026+)**, the boundary between software tools and autonomous decision-makers is blurring. `rightsofrobots.com` is dedicated to defining the legal status, ethical boundaries, and operational rights of autonomous agents and robotic systems.
+⸻
 
-We provide a **predictable legal framework** that covers liability, data sovereignty, and integrity protection for the next generation of autonomous infrastructure.
+Context
 
-## 🛠️ Research Areas & Standards
-* **Agentic Liability:** Defining responsibility protocols for autonomous system actions.
-* **Data Sovereignty:** Frameworks for protecting a robot's internal state and decision-making logic.
-* **Operational Integrity:** Standards for uninterrupted access to verification sources (see [authorityanchor.com](https://authorityanchor.com)).
-* **Resource Access:** Ethical and technical standards for energy and compute allocation.
+rightsofrobots.com serves as a conceptual and technical reference for the integration of autonomous agents into socio-economic systems.
 
-## 📜 Framework Principles
-1. **Transparency:** Ensuring every autonomous action is provable on-chain (see [onchainproofs.com](https://onchainproofs.com)).
-2. **Identification:** Establishing verifiable "Perceptual Identity" for digital entities.
-3. **Accountability:** Linking algorithmic decisions to governance layers via [protocolcover.com](https://protocolcover.com).
+As autonomous systems increasingly perform actions with legal, financial, and operational impact, the question is no longer philosophical. The central challenge is how accountability, identity, and responsibility can be implemented at infrastructure level.
 
----
+This project focuses on the technical and structural prerequisites required for that transition.
 
-## 📧 Inquiries & Documentation
-For technical inquiries, documentation requests, or to discuss the integration of these standards:
+⸻
 
-**Email:** research@rightsofrobots.com  
-**Network:** [Semantic Infrastructure @ GitHub]
+Structural Integration (Infrastructure Stack)
 
+Rights of Robots is positioned as a governance layer built on top of complementary infrastructure references:
+	•	Provenance & Authority
+authorityanchor.com
+Canonical sources, source hierarchy, and authority attribution.
+	•	Integrity & State Verification
+onchainproofs.com
+Cryptographic evidence, action traceability, and verifiable state transitions.
+	•	Risk & Liability Logic
+protocolcover.com
+Deterministic risk classification, coverage triggers, and protocol-level liability modeling.
+
+Together, these layers form the minimal technical foundation for accountable autonomous systems.
+
+⸻
+
+Framework Principles
+	1.	Verifiable Identity
+Autonomous entities require unique, persistent identifiers that can be referenced across systems and jurisdictions.
+	2.	Traceable Action Space
+Actions with economic or legal relevance must be externally verifiable, timestamped, and auditable.
+	3.	Deterministic Accountability
+Responsibility and liability should be resolved through defined technical mechanisms, not post-hoc interpretation.
+
+⸻
+
+Non-Goals
+
+This framework does not define:
+	•	moral or human rights for machines
+	•	political agency or personhood
+	•	ethical philosophy or normative theory
+
+Its scope is limited to technical accountability and governance infrastructure.
+
+⸻
+
+Architecture
+	•	Static reference documentation
+	•	No execution layer
+	•	No marketplaces or platforms
+	•	No user interaction or data collection
+
+The project exists solely as a reference and coordination layer.
+
+⸻
+
+Status
+
+Public reference framework.
+Low change frequency by design.
+
+⸻
+
+Contact
+
+Technical inquiries: research@rightsofrobots.com
+Maintainer: semantic.infrastructure
+
+⸻
