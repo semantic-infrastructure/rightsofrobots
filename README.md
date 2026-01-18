@@ -31,7 +31,7 @@ Rights of Robots is positioned as a **governance reference layer** built on top 
   Deterministic risk classification, coverage trigger logic, and protocol-level liability modeling  
   *(reference taxonomy — not an insurance provider).*
 
-Together, these layers form the minimal technical foundation for accountable autonomous systems.
+Together, these layers outline a possible technical foundation for accountable autonomous systems.
 
 ⸻
 
