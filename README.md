@@ -1,5 +1,16 @@
 # Rights of Robots (RoR)
 
+> **Historical reference state**
+>
+> This repository preserves the pre-05-Jul-2026 GitHub-based reference state of the Rights of Robots project.
+>
+> Since 05 July 2026, this repository is no longer the active web source for Rights of Robots.
+>
+> The current authoritative website is:
+> https://www.rightsofrobots.com/
+>
+> The historical content below is retained as a provenance record and is not updated to reflect the later Rights of Robots HUB, Semantic Core, Human Context Layer, Persistent Record Layer, or subsequent architectural developments.
+
 A reference framework for accountability, legal identity, and technical governance of autonomous machine entities.
 
 ⸻
